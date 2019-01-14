@@ -1,6 +1,3 @@
-# kifabzar
-kifabzar ecommerce
-
 Documentation
 
 Mr CMS Ecommerce does not currently support multiple currencies or multisite functionality. It also does not yet support the American tax system.
